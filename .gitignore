@@ -58,3 +58,8 @@ prof/**
 
 # vscode
 .vscode/
+
+*.swp
+docs/evm.*rst
+venv*
+.eggs/
